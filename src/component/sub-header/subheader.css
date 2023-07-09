@@ -1,0 +1,23 @@
+.sub-head{
+    width: 73%;
+    height: 30px;
+    position: absolute;
+    top: 75px;
+    left: 287px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.sub-head::-webkit-scrollbar{
+    display: none;
+}
+
+.btn{
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: rgb(224, 222, 222);
+    margin-right: 11px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+

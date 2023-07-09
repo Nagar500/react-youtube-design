@@ -1,0 +1,30 @@
+.upload-popup{
+    width: 10.8%;
+    /* height: calc(100vh - 50px); */
+    height: 150px;
+    /* border-right: 1px solid black; */
+    box-shadow: -1px 1px 10px #00000033;
+    position: absolute;
+    left: 1205px;
+    top: 44px;
+    bottom: 10px;   
+    border-radius: 10px;
+    background-color: white;
+    display: none;
+}
+
+.upload-menu{
+    display: flex;
+    align-items: center;
+    padding: 15px 10px;
+}
+
+.upload-menu img{
+    width: 20px;
+    height: 20px;
+}
+
+.upload-menu p{
+    font-size: 14px;
+    padding: 0 10px;
+}
